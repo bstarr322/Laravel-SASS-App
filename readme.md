@@ -14,6 +14,26 @@ Laravel is accessible, yet powerful, providing tools needed for large, robust ap
 
 Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
+## Description
+This is SASS Application based on Laravel.
+
+## Prerequisites 
+  1. Composer 
+  2. PHP version >7.0 
+  3. MySql
+
+## Installation
+  1. npm install 
+  2. composer install 
+  3. php artisan key:generate 
+  4. php artisan cache:clear 
+  5. php artisan migrate 
+  6. php artisan db:seed
+
+I hope this will be helpful to develop your awesome SASS application. Please contact me if you need .env & DB files.
+
+Thanks.
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
